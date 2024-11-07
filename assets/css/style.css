@@ -419,6 +419,11 @@ main .container p a:hover {
   font-size: 14px;
 }
 
+.section-1 .entertainment .col-2 .rating span,
+.section-1 .eating .col-2 .rating span {
+  margin-left: 10px;
+}
+
 .section-2 h2 {
   font-family: TS-Med, sans-serif;
   font-size: 28px;
